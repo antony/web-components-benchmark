@@ -1,0 +1,27 @@
+{
+  "namespace": "App",
+  "fsNamespace": "app",
+  "loader": "../app.js",
+  "core": "app.bxb1vvwp.js",
+  "corePolyfilled": "app.og9ma4ea.js",
+  "components": {
+    "my-todo": {
+      "bundleIds": {
+        "$": "ow2wybod"
+      },
+      "encapsulation": "shadow"
+    },
+    "todo-input": {
+      "bundleIds": {
+        "$": "ow2wybod"
+      },
+      "encapsulation": "shadow"
+    },
+    "todo-item": {
+      "bundleIds": {
+        "$": "ow2wybod"
+      },
+      "encapsulation": "shadow"
+    }
+  }
+}
